@@ -7,7 +7,7 @@ import {
 import { Container, Link } from "../styled-components/SharedStyles";
 function Header() {
   const [state] = useState({
-    heading: "Software Developer",
+    heading: "Developer",
     subHeading: "Web and Mobile Applications ",
   });
   return (
